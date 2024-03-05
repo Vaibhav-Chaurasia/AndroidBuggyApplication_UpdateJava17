@@ -1,0 +1,6 @@
+projectKey=SonarScanner
+serverUrl=http://localhost:9099
+serverVersion=10.4.0.87286
+dashboardUrl=http://localhost:9099/dashboard?id=SonarScanner
+ceTaskId=c38a45b1-e436-4cf9-b8b9-0c53e663c145
+ceTaskUrl=http://localhost:9099/api/ce/task?id=c38a45b1-e436-4cf9-b8b9-0c53e663c145

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SonarLintProjectSettings">
     <option name="bindingEnabled" value="true" />
-    <option name="projectKey" value="Vaibhav-Chaurasia_AndroidBuggyApplication_UpdateJava17_34f5ba9f-62a5-470b-b03f-a9098682e50d" />
-    <option name="serverId" value="SonarQube" />
+    <option name="projectKey" value="test" />
+    <option name="serverId" value="Test" />
   </component>
 </project>
