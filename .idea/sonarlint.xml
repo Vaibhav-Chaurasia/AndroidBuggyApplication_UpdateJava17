@@ -9,8 +9,5 @@
         <entry key="sonar.token" value="sqp_157b0bf9466a985d8a35dc12b033cbf3badc10dc" />
       </map>
     </option>
-    <option name="bindingEnabled" value="true" />
-    <option name="projectKey" value="Test1" />
-    <option name="serverId" value="test" />
   </component>
 </project>
