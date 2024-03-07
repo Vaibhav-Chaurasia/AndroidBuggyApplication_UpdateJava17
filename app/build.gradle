@@ -28,8 +28,6 @@ android {
             property "sonar.projectName", "AndroidBuggyApplication_UpdateJava17"
             property "sonar.host.url", "http://127.0.0.1:9099"
             property "sonar.token", "sqp_9d09f4e799425ce301d157d4317d5907a3a41529"
-            property "sonar.login", "admin"
-            property "sonar.password", "vaicha"
         }
     }
 
