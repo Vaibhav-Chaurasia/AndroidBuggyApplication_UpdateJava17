@@ -4,7 +4,6 @@
     <option name="analysisLogsEnabled" value="true" />
     <option name="bindingEnabled" value="true" />
     <option name="projectKey" value="Vaibhav-Chaurasia_AndroidBuggyApplication_UpdateJava17" />
-    <option name="verboseEnabled" value="true" />
     <option name="serverId" value="SonarCloudConnect" />
   </component>
 </project>

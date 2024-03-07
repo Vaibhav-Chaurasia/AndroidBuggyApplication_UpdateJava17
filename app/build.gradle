@@ -24,10 +24,9 @@ android {
     sonarqube {
         properties {
             property "sonar.android.lint.reportPaths", "build/reports/lint-results.xml"
-            property "sonar.projectKey", "Vaibhav-Chaurasia_AndroidBuggyApplication_UpdateJava17_4d69b414-e0b8-4dae-a756-60e3041dea21"
-            property "sonar.projectName", "AndroidBuggyApplication_UpdateJava17"
-            property "sonar.host.url", "http://127.0.0.1:9099"
-            property "sonar.token", "sqp_9d09f4e799425ce301d157d4317d5907a3a41529"
+            property "sonar.projectKey", "Vaibhav-Chaurasia_AndroidBuggyApplication_UpdateJava17"
+            property "sonar.organization", "vaibhav-chaurasia"
+            property "sonar.host.url", "https://sonarcloud.io"
         }
     }
 
