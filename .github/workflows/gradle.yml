@@ -35,4 +35,4 @@ jobs:
         env:
           SONAR_TOKEN: sqp_9d09f4e799425ce301d157d4317d5907a3a41529
           SONAR_HOST_URL: http://localhost:9099
-        run: ./gradlew build sonar --info
+        run: ./gradlew build sonar --info --build-cache
